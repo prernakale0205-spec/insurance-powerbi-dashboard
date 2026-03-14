@@ -22,7 +22,9 @@ This Power BI dashboard analyzes insurance data to understand premium distributi
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard](# Insurance Data Analysis – Power BI Dashboard
+![Dashboard](insurance_dashboard_1.png)
+![Dashboard](insurance_dashboard_2.png)
+
 
 ## Project Overview
 This Power BI dashboard analyzes insurance data to understand premium distribution, claim trends, and policy coverage insights.
