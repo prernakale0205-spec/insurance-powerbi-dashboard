@@ -47,7 +47,7 @@ This Power BI dashboard analyzes insurance data to understand premium distributi
 
 ## Dashboard Preview
 ![Dashboard](Screenshot 2026-03-14 154034.png)
-![Dashboard]Screenshot 2026-03-14 154133.png)
+![Dashboard](Screenshot 2026-03-14 154133.png)
 
 ## Author
 Prerna Kale  
